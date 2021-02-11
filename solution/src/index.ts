@@ -319,9 +319,9 @@ class Elevator implements iElevator {
     }
 }
 
-let PROBLEM_NUMBER = 1
+let PROBLEM_NUMBER = 2
 let MAX_HEIGHT = -1
-const ELEVATOR_COUNT = 1
+const ELEVATOR_COUNT = 4
 
 switch (PROBLEM_NUMBER) {
     case 0: {
